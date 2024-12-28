@@ -70,10 +70,6 @@ The REINFORCE algorithm optimizes the policy directly by using policy gradients.
 - **Learning Steps per Episode**: 2.
 - **Discount Factor (\(\gamma\))**: 0.99.
 
-**Training Performance Placeholder**:
-![Training Performance](visuals/training_performance_reinforce.png)
-
----
 
 ## Results
 
